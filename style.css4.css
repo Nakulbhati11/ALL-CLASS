@@ -1,0 +1,24 @@
+body{
+    background-color: wheat;
+    color: rgb(128, 0, 83);
+}
+h1{
+    color: yellow;
+    background-color: #1dec1d;
+}
+
+/* <!-- Types of css ; 
+1. Inline css
+2. Internal css
+3. External css -->
+<!-- Selector { -->
+ <!-- <Property> <separator :> <property_value> <closing separator:> } -->
+      <!-- red green blue -> RGB char # rgb colour name  --> -->
+     <!-- alpha - 0-1(0-1 , 0-2, 0-3....) --> */
+/* 6. Types of Selector
+1. html Selector ---is all tags are be used p{}, h1{}, div{}.
+2. id Selector---is the name of ids id="name"  #abc{} its write only one time   
+3. Class Selector----class="xyz" its write on many times .xyz{}
+4. Group Selector---
+5. universal Selector--- its tag applied all web pages. /*h1{}
+6. Combinator Selector */
