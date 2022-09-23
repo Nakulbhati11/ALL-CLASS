@@ -1,0 +1,28 @@
+/* div p {
+  background-color: red;
+} */
+
+/* .xyz p {
+  background-color: yellow;
+} */
+
+/* .xyz .xyz1,
+h1,
+span,
+form,
+table,
+a {
+  background-color: palevioletred;
+} */
+
+/* div > p {
+  background-color: red;
+} */
+
+/* div + p {
+  background-color: red;
+} */
+
+div ~ p {
+  background-color: teal;
+}
